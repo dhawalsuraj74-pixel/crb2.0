@@ -1,0 +1,6 @@
+{
+  "name": "Creator Bishal 2.0",
+  "description": "Free Edius, Premiere Pro Projects, LUTs & Professional Resource Hub",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
